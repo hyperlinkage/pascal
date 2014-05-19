@@ -1,4 +1,4 @@
-pascal
+Pascal
 ======
 
 Pascal exercises written for Computing A-Level course, South Devon College 1996/7.
